@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: minima
 title: BlogCog RB
 description: A simple option to start your first blog.
-github-username: @blogcog
+github-username: blogcog
