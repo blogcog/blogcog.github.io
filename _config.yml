@@ -2,3 +2,5 @@ theme: minima
 title: BlogCog RB
 description: A simple option to start your first blog.
 github-username: blogcog
+plugins:
+  - jekyll-octicons
